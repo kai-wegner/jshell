@@ -3,6 +3,6 @@ version: '2'
 services:
   jshell:
     build: .
-    image: o511/jshell
+    image: kawe/jshell
     ports:
       - "8080:8080"
