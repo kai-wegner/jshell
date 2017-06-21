@@ -12,6 +12,6 @@ __Login with password: shell__
 Happy coding!
 
 ```
-docker run -P kawe/jshell
+docker run -p 8080:8080 kawe/jshell
 ```
 
