@@ -14,4 +14,8 @@ Happy coding!
 ```
 docker run -p 8080:8080 kawe/jshell
 ```
+or
+```
+docker-compose up
+```
 
